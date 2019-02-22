@@ -1,0 +1,7 @@
+br\com\bioritmo\pages\Login.class
+br\com\bioritmo\pages\Reservas.class
+br\com\bioritmo\pages\Inicial.class
+br\com\bioritmo\pages\Confirmacao.class
+br\com\bioritmo\common\SeleniumCommon.class
+br\com\bioritmo\pages\BasicPage.class
+br\com\bioritmo\ReservaAulas\Reservar.class

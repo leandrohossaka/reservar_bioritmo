@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite 1" duration-ms="103522" started-at="2019-02-22T00:44:56Z" finished-at="2019-02-22T00:46:39Z">
+    <groups>
+    </groups>
+    <test name="Reservar Aulas" duration-ms="103522" started-at="2019-02-22T00:44:56Z" finished-at="2019-02-22T00:46:39Z">
+      <class name="br.com.bioritmo.ReservaAulas.Reservar">
+        <test-method status="PASS" signature="reservar()[pri:0, instance:br.com.bioritmo.ReservaAulas.Reservar@702b8b12]" name="reservar" duration-ms="103345" started-at="2019-02-22T00:44:56Z" finished-at="2019-02-22T00:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reservar -->
+        <test-method status="PASS" signature="deslogarEFechar()[pri:0, instance:br.com.bioritmo.ReservaAulas.Reservar@702b8b12]" name="deslogarEFechar" is-config="true" duration-ms="149" started-at="2019-02-22T00:46:39Z" finished-at="2019-02-22T00:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deslogarEFechar -->
+      </class> <!-- br.com.bioritmo.ReservaAulas.Reservar -->
+    </test> <!-- Reservar Aulas -->
+  </suite> <!-- Suite 1 -->
+</testng-results>
